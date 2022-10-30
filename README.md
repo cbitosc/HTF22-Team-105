@@ -5,7 +5,7 @@
 
 <h2>Home Page</h2>
 ![image](https://user-images.githubusercontent.com/84970944/198868286-9db5318f-58b0-4e7b-8c11-8bff8847b4a5.png)
-<br/>
+
 <h2>Contact Us Page</h2>
 ![image](https://user-images.githubusercontent.com/84970944/198868331-09e7eecd-64b4-4cde-8d24-a93eeaeb8227.png)
 <br/>
