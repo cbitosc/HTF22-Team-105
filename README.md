@@ -76,3 +76,21 @@
 
 ![image](https://user-images.githubusercontent.com/84970944/198868715-91019867-285e-4cda-b0f1-37f16a688f66.png)
 
+<h2> Doctor Features </h2>
+
+<h3> Doctor Login </h3>
+
+![image](https://user-images.githubusercontent.com/84970944/198869063-970f2ff1-45cf-45ce-a98a-4bd800a9c063.png)
+
+<h3> Doctor Dashboard</h3>
+
+![image](https://user-images.githubusercontent.com/84970944/198869107-f46b202f-f509-48a1-b294-0cf502348e56.png)
+
+<h3> Doctor Appointment History</h3>
+
+![image](https://user-images.githubusercontent.com/84970944/198869119-204abaeb-a667-47bd-9dcc-7a520d099fd6.png)
+
+<h3>Doctor-Patient Medical History and Doctor Prescription</h3>
+
+![image](https://user-images.githubusercontent.com/84970944/198869143-0f4b7d02-47ac-4d95-96e9-a80cd1b0c961.png)
+
