@@ -39,7 +39,6 @@ if(isset($_GET['cancel']))
 					<?php include('include/header.php');?>
 				<div class="main-content" >
 					<div class="wrap-content container" id="container">
-						<!-- start: PAGE TITLE -->
 						<section id="page-title">
 							<div class="row">
 								<div class="col-sm-8">
