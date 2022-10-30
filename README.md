@@ -24,7 +24,7 @@
 
 
 <h2>Admin Features</h2>
-<br/>
+
 
 <h3>1 Add Doctor Manage Doctors Doctor Specialization </h3>
 
@@ -48,7 +48,7 @@
 
 
 <h3>3 Appointment History</h3>
-<br/>
+
 
 ![image](https://user-images.githubusercontent.com/84970944/198868620-189ade58-c5f2-40be-9fa2-6f8a61ba2317.png)
 
@@ -71,5 +71,6 @@
 
 
 <h3>7 View Patient Information</h3>
+
 ![image](https://user-images.githubusercontent.com/84970944/198868715-91019867-285e-4cda-b0f1-37f16a688f66.png)
 
