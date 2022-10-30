@@ -4,20 +4,23 @@
 
 
 <h2>Home Page</h2>
+
 ![image](https://user-images.githubusercontent.com/84970944/198868286-9db5318f-58b0-4e7b-8c11-8bff8847b4a5.png)
 
 <h2>Contact Us Page</h2>
+
 ![image](https://user-images.githubusercontent.com/84970944/198868331-09e7eecd-64b4-4cde-8d24-a93eeaeb8227.png)
-<br/>
-Login Features
+
+<h3>Login Features</h3>
 ![image](https://user-images.githubusercontent.com/84970944/198868346-bfb03e60-6367-407c-b966-a925bfcb8825.png)
-<br/>
-Admin Login
+
+<h3>Admin Login</h3>
 ![image](https://user-images.githubusercontent.com/84970944/198868364-dbab43fe-8a22-44e5-8637-b12eadd87149.png)
-<br/>
-Admin Dashboard
+
+
+<h3>Admin Dashboard</h3>
 ![image](https://user-images.githubusercontent.com/84970944/198868396-3c46f4c3-17e9-4afd-9005-8afa511bd02a.png)
-<br/>
+
 
 <h2>Admin Features</h2>
 <br/>
