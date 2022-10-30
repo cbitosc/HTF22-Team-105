@@ -94,3 +94,20 @@
 
 ![image](https://user-images.githubusercontent.com/84970944/198869143-0f4b7d02-47ac-4d95-96e9-a80cd1b0c961.png)
 
+<h1> Patient Features</h1>
+
+<h3> Patient Login </h3>
+
+![image](https://user-images.githubusercontent.com/84970944/198869218-3ca0c28f-d211-4c33-acd1-dbc009bcd7f6.png)
+
+<h3> Patient Dashboard </h3>
+
+![image](https://user-images.githubusercontent.com/84970944/198869238-55256ad9-6715-4951-a582-9be1a788e20c.png)
+
+<h3> Book Appointment </h3>
+
+![image](https://user-images.githubusercontent.com/84970944/198869367-b62782e0-a540-49a6-a862-1db1a183145f.png)
+
+<h3>Patient Medical History</h3>
+
+![image](https://user-images.githubusercontent.com/84970944/198869443-858b076f-eb48-4267-85bb-c51c4ff30705.png)
